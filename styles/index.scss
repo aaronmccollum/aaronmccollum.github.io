@@ -1,0 +1,76 @@
+// Overall Styles //
+body {
+  background: #f5f5f5;
+}
+a:hover {
+  color: red;
+}
+// Page Header Styles //
+h1 {
+  font-family: 'Jost', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+#childHeaderDiv{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.socialMediaImage {
+  width: 50px;
+  height: auto;
+  padding-right: 20px;
+}
+#introParagraph {
+  font-family: 'Jost', sans-serif;
+  font-size: 16px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+#profilePicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+// Recent Project Div Styles //
+
+.sectionHeader {
+  font-family: 'Jost', sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+#recentProjectsDiv {
+  margin-bottom: 30px;
+  border-style: solid;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 20px;
+}
+.recentProjectParagraph{
+  font-family: 'Jost', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+// My Blog - Coding with Aaron //
+#blogDiv {
+  font-family: 'Jost', sans-serif;
+  text-align: center;
+  border-style: solid;
+  border-radius: 15px;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-bottom: 20px;
+}
+.pageParagraph {
+  font-size: 20px;
+}
+.recentBlogParagraph {
+  font-size: 20px;
+}
